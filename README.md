@@ -57,6 +57,12 @@ This Laravel application allows you to manage products with multiple images and 
 
 ---
 
+## Local URL
+- **Add Product**: `http://localhost/inovantsolution/public/product-form`
+- **Cart View**: `http://localhost/inovantsolution/public/products`
+
+---
+
 ## License
 
 This project is open-sourced under the MIT License. Feel free to use and modify.
